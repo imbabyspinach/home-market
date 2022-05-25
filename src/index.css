@@ -313,12 +313,12 @@ button {
 .exploreHeading,
 .exploreCategoryHeading {
   font-weight: 700;
-  font-size: 1.08rem;
+  font-size: 1.2rem;
 }
 
 .exploreCategoryHeading {
   margin-top: 3rem;
-  color: #000000;
+  color: 00229b;
 }
 
 .swiper-container {
@@ -365,7 +365,7 @@ button {
   left: 11px;
   font-weight: 600;
   max-width: 90%;
-  background-color: #0025a9;
+  background-color: #000000;
   padding: 0.25rem 0.5rem;
   border-radius: 1rem;
 }
@@ -395,6 +395,8 @@ button {
 .exploreCategoryName {
   font-weight: 600;
   text-align: left;
+  color: #00229b;
+  font-size: 1.09rem;
 }
 
 .category {
